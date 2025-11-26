@@ -12,9 +12,3 @@ void validationExample() {
         cout << "Validation passed!" << endl;
     }
 }
-
-int main() {
-    cout << "Лабораторная работа по Git" << endl;
-    validationExample();
-    return 0;
-}
